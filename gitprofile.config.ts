@@ -41,12 +41,12 @@ const CONFIG = {
           link: 'https://es-pisang-ijo-badjo.netlify.app/',
         },
         {
-          title: 'Kedai 3000',
+          title: 'MARTABAK KU',
           description:
-            'Kedai3000 adalah restoran yang menyajikan berbagai hidangan khas Sunda dengan cita rasa autentik. Menghadirkan suasana nyaman dan ramah, Kedai3000 menjadi pilihan tepat untuk menikmati masakan Sunda yang lezat dengan penyajian modern.',
+            'Martabakku adalah toko yang menyajikan berbagai varian martabak dan terang bulan dengan cita rasa khas dan bahan berkualitas. Dengan kombinasi topping yang melimpah dan tekstur yang sempurna, Martabakku menghadirkan kenikmatan yang tak terlupakan bagi pecinta martabak.Cocok untuk ngemil bersama keluarga atau teman! 😊',
           imageUrl:
-            'https://kedai3000.netlify.app/assets/img/hero-bg.jpg',
-          link: 'https://kedai3000.netlify.app/',
+            'https://martabakku.com/wp-content/uploads/2022/11/Martabakku_Happiness-in-evry-Bites.jpg',
+          link: 'https://martabakku.com/',
         }
         // {
         //   title: 'Project Name',
@@ -66,10 +66,9 @@ const CONFIG = {
   },
   social: {
     instagram: 'msaidhusni',
-    linkedin: 'Muhammad Said Husni Al Tafsir',
-    udemy: 'Muhammad Said Husni Al Tafsir',
+    linkedin: 'muhammad-said-husni-al-tafsir-867021219',
     medium: 'msaidhusni',
-    website: 'bit.ly/msaidhusni',
+    website: 'https://msaidhusni.vercel.app',
     phone: '0812-2154-5604',
     email: 'msaidhusni1208@gmail.com',
   },
