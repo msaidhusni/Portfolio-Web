@@ -107,6 +107,12 @@ const CONFIG = {
       year: 'Oct 2024',
       link: 'https://www.udemy.com/certificate/UC-c0f5acdf-fcd7-4cbd-b3a3-ba9a1a0cb588/',
     },
+    {
+      name: 'Muhammad Said Husni',
+      body: 'Microsoft Excel - Word - PowerPoint',
+      year: 'Jan 2025',
+      link: 'https://storage.googleapis.com/myskill-v2-certificates/learning-path-kpIIH7ZvWgW3muNNmC1V/80uQWtmKOSWRSLZdRCTdJh810hg1-etW9VeBA5WMVoeHiLfHc.pdf',
+    },
   ],
   educations: [
     {
