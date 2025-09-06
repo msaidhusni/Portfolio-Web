@@ -121,12 +121,6 @@ const CONFIG = {
       from: '2018',
       to: '2021',
     },
-    {
-      institution: 'Universitas Terbuka',
-      degree: 'Sistem Informasi Manajemen',
-      from: '2023',
-      to: 'Now',
-    },
   ],
   // publications: [
   //   {
